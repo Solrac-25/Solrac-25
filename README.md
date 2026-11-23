@@ -1,5 +1,5 @@
 # Hey there 
-I'm _Carlos_ a Unity beginner indie developer. Actually studing in "Systems and Networks degree"
+I'm _Carlos_ a Unity beginner indie developer. Actually learning Rust and Godot
 
 
 <a href="https://skillicons.dev">
